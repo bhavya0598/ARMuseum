@@ -1,5 +1,5 @@
 # ARMuseum
-# Create VR Core project
+Create VR Core project <br />
 File > Build settings > select android > switch platform <br />
 Player settings > other settings > remove Graphics API which is deprecated <br />
 Player settings > other settings > scripting backend > IL2CPP <br />
